@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "FakultetUdfordring/1.0.0": {
+      "Fakultet/1.0.0": {
         "runtime": {
-          "FakultetUdfordring.dll": {}
+          "Fakultet.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "FakultetUdfordring/1.0.0": {
+    "Fakultet/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,4 +1,4 @@
-﻿var result = BeregnFakultet(0);
+﻿var result = BeregnFakultet(6);
 Console.WriteLine(result);
 
 int BeregnFakultet(int n)
