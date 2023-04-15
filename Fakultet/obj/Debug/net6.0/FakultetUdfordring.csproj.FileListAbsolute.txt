@@ -1,0 +1,15 @@
+C:\Users\fasil\source\repos\ApplicantChallenge\Fakultet\FakultetUdfordring\bin\Debug\net6.0\FakultetUdfordring.exe
+C:\Users\fasil\source\repos\ApplicantChallenge\Fakultet\FakultetUdfordring\bin\Debug\net6.0\FakultetUdfordring.deps.json
+C:\Users\fasil\source\repos\ApplicantChallenge\Fakultet\FakultetUdfordring\bin\Debug\net6.0\FakultetUdfordring.runtimeconfig.json
+C:\Users\fasil\source\repos\ApplicantChallenge\Fakultet\FakultetUdfordring\bin\Debug\net6.0\FakultetUdfordring.dll
+C:\Users\fasil\source\repos\ApplicantChallenge\Fakultet\FakultetUdfordring\bin\Debug\net6.0\FakultetUdfordring.pdb
+C:\Users\fasil\source\repos\ApplicantChallenge\Fakultet\FakultetUdfordring\obj\Debug\net6.0\FakultetUdfordring.csproj.AssemblyReference.cache
+C:\Users\fasil\source\repos\ApplicantChallenge\Fakultet\FakultetUdfordring\obj\Debug\net6.0\FakultetUdfordring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasil\source\repos\ApplicantChallenge\Fakultet\FakultetUdfordring\obj\Debug\net6.0\FakultetUdfordring.AssemblyInfoInputs.cache
+C:\Users\fasil\source\repos\ApplicantChallenge\Fakultet\FakultetUdfordring\obj\Debug\net6.0\FakultetUdfordring.AssemblyInfo.cs
+C:\Users\fasil\source\repos\ApplicantChallenge\Fakultet\FakultetUdfordring\obj\Debug\net6.0\FakultetUdfordring.csproj.CoreCompileInputs.cache
+C:\Users\fasil\source\repos\ApplicantChallenge\Fakultet\FakultetUdfordring\obj\Debug\net6.0\FakultetUdfordring.dll
+C:\Users\fasil\source\repos\ApplicantChallenge\Fakultet\FakultetUdfordring\obj\Debug\net6.0\refint\FakultetUdfordring.dll
+C:\Users\fasil\source\repos\ApplicantChallenge\Fakultet\FakultetUdfordring\obj\Debug\net6.0\FakultetUdfordring.pdb
+C:\Users\fasil\source\repos\ApplicantChallenge\Fakultet\FakultetUdfordring\obj\Debug\net6.0\FakultetUdfordring.genruntimeconfig.cache
+C:\Users\fasil\source\repos\ApplicantChallenge\Fakultet\FakultetUdfordring\obj\Debug\net6.0\ref\FakultetUdfordring.dll
