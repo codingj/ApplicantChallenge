@@ -1,4 +1,4 @@
-## h2 Applicant Challenge 2
+# h2 Applicant Challenge 2
 Fizz buzz is a group word game for children to teach them about division.
 Players take turns to count incrementally, replacing any number divisible by 3 with the word "fizz", and any number divisible by 5 with the word "buzz", and any number divisible by both 3 and 5 with the word "fizzbuzz"
 
